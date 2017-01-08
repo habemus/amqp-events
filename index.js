@@ -1,2 +1,2 @@
-exports.Server = require('./server');
-exports.Client = require('./client');
+exports.Publisher = require('./publisher');
+exports.Consumer  = require('./consumer');
