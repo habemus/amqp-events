@@ -2,7 +2,7 @@
 const Bluebird = require('bluebird');
 const amqplib  = require('amqplib');
 
-const RABBIT_MQ_URI = 'amqp://192.168.99.100';
+const RABBIT_MQ_URI = 'amqp://localhost';
 
 exports.rabbitMQURI = RABBIT_MQ_URI;
 

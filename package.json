@@ -1,7 +1,11 @@
 {
-  "name": "h-mq-events",
-  "version": "0.0.0",
+  "name": "@habemus/amqp-events",
+  "version": "1.0.0",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/habemus/amqp-events"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
